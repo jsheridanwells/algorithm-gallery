@@ -26,4 +26,5 @@
 	<li><a href="https://github.com/jsheridanwells/js-algorithm-gallery/blob/master/other/rotate.js">Rotate</a> <a href="https://repl.it/F24D/latest">(repl.it)</a></li>
 	<li><a href="https://github.com/jsheridanwells/js-algorithm-gallery/blob/master/other/utopian_tree.js">Utopian Tree</a> <a href="https://repl.it/FRNq/latest">(repl.it)</a></li>
 	<li><a href="https://github.com/jsheridanwells/js-algorithm-gallery/blob/master/other/staircase.js">Staircase</a> <a href="https://repl.it/FQdJ/latest">(repl.it)</a></li>
+	<li><a href="https://github.com/jsheridanwells/js-algorithm-gallery/blob/master/other/first_repeating_letter.js">First Repeating Letter</a></li>
 </ul>
